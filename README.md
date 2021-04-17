@@ -1,5 +1,3 @@
-Personal stuff
---------------
 From Sweden
 
 Cool repos
